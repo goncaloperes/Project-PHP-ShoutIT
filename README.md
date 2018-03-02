@@ -1,8 +1,4 @@
-# Project-PHP-ShoutIT
-Shoutbox powered by PHP that uses mySQL to store shouts. It is strictly procedural coding and uses the mysqli api.
-
-
-# [AddressBook](https://github.com/goncaloperes/Project-AJAX-AddressBook)
+# [ShoutIT](https://github.com/goncaloperes/Project-PHP-ShoutIT)
 
 <table>
 <tr>
