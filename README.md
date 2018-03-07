@@ -1,4 +1,6 @@
 # [ShoutIT](https://github.com/goncaloperes/Project-PHP-ShoutIT)
+![](https://img.shields.io/badge/Version-1.0-blue.svg) 
+![](https://img.shields.io/badge/License-MIT-green.svg)
 
 <table>
 <tr>
@@ -9,10 +11,6 @@ Very basic Shoutbox powered by PHP and using MySQL to store the shouts.
 </td>
 </tr>
 </table>
-
-### Version
-1.0
-
 
 ---
 
