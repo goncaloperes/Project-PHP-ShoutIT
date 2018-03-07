@@ -1,4 +1,8 @@
 # [ShoutIT](https://github.com/goncaloperes/Project-PHP-ShoutIT)
+[![GitHub Watches](https://img.shields.io/github/watchers/goncaloperes/Project-PHP-ShoutIT.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/goncaloperes/Project-PHP-ShoutIT/watchers)
+[![GitHub Starts](https://img.shields.io/github/stars/goncaloperes/Project-PHP-ShoutIT.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goncaloperes/Project-PHP-ShoutIT/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/goncaloperes/Project-PHP-ShoutIT.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/goncaloperes/Project-PHP-ShoutIT/network)
+
 ![](https://img.shields.io/badge/Version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/License-MIT-green.svg)
 
